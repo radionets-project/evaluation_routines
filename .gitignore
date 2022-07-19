@@ -1,2 +1,3 @@
 *.ipynb_checkpoints
 *.h5
+resources/sim_gan
